@@ -1,6 +1,8 @@
 👋 Olá! Eu sou o Mateus, desenvolvedor backend se especializando em Node.js, Express e Axios. 
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
+Contato: <a href="https://www.linkedin.com/in/tetbatista" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 <div>
 <a href="https://github.com/tetbatista">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetbatista&layout=compact&langs_count=7&theme=dracula"/>
