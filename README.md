@@ -1,5 +1,4 @@
-## Hi there 👋
-
+👋 Olá! Eu sou o Mateus, desenvolvedor backend se especializando em Node.js, Express e Axios. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 <!--
 **tetbatista/tetbatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
