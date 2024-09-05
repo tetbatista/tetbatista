@@ -1,8 +1,5 @@
-👋 Olá! Eu sou o Mateus, desenvolvedor backend se especializando em Node.js 
-
-  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
-
-## Contato: <a href="https://www.linkedin.com/in/tetbatista" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+👋 Olá! Sou o Mateus, desenvolvedor backend em especialização em Node.js, com foco na formação Full Stack!
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
 <div>
 <a href="https://github.com/tetbatista">
