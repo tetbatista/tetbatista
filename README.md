@@ -2,10 +2,12 @@
 
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
-<div>
-  <a href="https://github.com/tetbatista">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetbatista&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tetbatista&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+![Profile Views](https://komarev.com/ghpvc/?username=tetbatista&style=flat-square&color=blueviolet&label=Visualiza%C3%A7%C3%B5es%20no%20perfil)
+
+
 
 ## Tecnologias que utilizo
 
