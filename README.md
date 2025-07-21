@@ -1,4 +1,4 @@
-👋 Olá! Sou o Mateus, desenvolvedor backend em especialização em Node.js, com foco na formação Full Stack!
+👋 Olá! Sou o Mateus, desenvolvedor backend com especialização em Node.js!
 
 Formado em Análise e Desenvolvimento de Sistemas.
 
