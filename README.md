@@ -1,6 +1,6 @@
 👋 Olá! Sou o Mateus, desenvolvedor backend com especialização em Node.js!
 
-Atualmente estudando Go (Goland) para ampliar minha stack com foco em perfomance e arquitetura Serverless.
+Atualmente estudando Go (Golang) para ampliar minha stack com foco em perfomance e arquitetura Serverless.
 
 Formado em Análise e Desenvolvimento de Sistemas.
 
