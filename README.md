@@ -1,14 +1,14 @@
-👋 Olá! Sou o Mateus, desenvolvedor backend especializado em Node.js, JavaScript e TypeScript!
+👋 Hi! I'm Mateus, a backend developer specialized in Node.js, JavaScript and TypeScript!
 
-Também trabalho com Go (Golang) no desenvolvimento de serviços com foco em performance e arquitetura Serverless.
+I also work with Go (Golang) building services focused on performance and Serverless architecture.
 
-Formado em Análise e Desenvolvimento de Sistemas.
+Graduated in Systems Analysis and Development.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tetbatista&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-## 🛠️ Tecnologias que utilizo
+## 🛠️ Technologies I work with
 
-**Linguagens & Frameworks**
+**Languages & Frameworks**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -21,7 +21,7 @@ Formado em Análise e Desenvolvimento de Sistemas.
 
 <br>
 
-**Banco de Dados**
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -37,11 +37,11 @@ Formado em Análise e Desenvolvimento de Sistemas.
 
 <br>
 
-**Automação**
+**Automation**
 
 ![n8n](https://img.shields.io/badge/n8n-ef6c00?style=for-the-badge&logo=n8n&logoColor=white)
 
-## 📬 Entre em contato comigo
+## 📬 Get in touch
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tetbatista/" title="LinkedIn">
