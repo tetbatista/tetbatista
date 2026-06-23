@@ -4,6 +4,8 @@ I also work with Go (Golang) building services focused on performance and Server
 
 Graduated in Systems Analysis and Development.
 
+📁 Check out my projects: [My Projects](https://github.com/tetbatista/my-projects)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=tetbatista&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 ## 🛠️ Technologies I work with
