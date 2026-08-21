@@ -8,7 +8,6 @@ Graduated in Systems Analysis and Development.
   <img src="./github-user-stats.svg" alt="GitHub Stats" />
 </p>
 
-
 📁 Check out my projects: [My Projects](https://github.com/tetbatista/my-projects)
 
 
