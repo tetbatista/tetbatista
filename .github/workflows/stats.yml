@@ -16,6 +16,6 @@ jobs:
         with:
           image-file: github-user-stats.svg
           colors: dark-dimmed
-          hide-keys: mostStarred, mostForked, followers, following, watching, contribTo, prReviews, issues
+          hide-keys: mostStarred, mostForked, followers, following, watching, contribTo, prReviews, issues, languages
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
