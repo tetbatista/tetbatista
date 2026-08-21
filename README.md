@@ -4,6 +4,11 @@ I also work with Go (Golang) building services focused on performance and Server
 
 Graduated in Systems Analysis and Development.
 
+<p align="left">
+  <img src="./github-user-stats.svg" alt="GitHub Stats" />
+</p>
+
+
 📁 Check out my projects: [My Projects](https://github.com/tetbatista/my-projects)
 
 
