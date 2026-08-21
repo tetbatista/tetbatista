@@ -1,1 +1,15 @@
-name: Generate Stats on: schedule: - cron: "0 0 * * *" workflow_dispatch: jobs: stats: runs-on: ubuntu-latest permissions: contents: write steps: - uses: cicirello/user-statistician@v2 with: authorization: ${{ secrets.GH_TOKEN }}
+name: Generate Stats
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: cicirello/user-statistician@v2
+        with:
+          authorization: ${{ secrets.GH_TOKEN }}
