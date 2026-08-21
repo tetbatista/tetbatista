@@ -15,5 +15,6 @@ jobs:
         uses: cicirello/user-statistician@v1
         with:
           image-file: github-user-stats.svg
+          hide-keys: mostStarred, mostForked, followers, following, watching, contribTo, prReviews, issues
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
