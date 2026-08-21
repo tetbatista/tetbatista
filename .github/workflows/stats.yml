@@ -10,6 +10,10 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: cicirello/user-statistician@v2
+      - uses: actions/checkout@v4
+      - name: Generate stats image
+        uses: cicirello/user-statistician@v1
         with:
-          authorization: ${{ secrets.GH_TOKEN }}
+          image-file: github-user-stats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
